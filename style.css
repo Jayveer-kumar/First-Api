@@ -1,0 +1,25 @@
+ body{
+    background-color: rgb(24, 27, 29);
+ }
+#result{
+    height: 30px;
+    width: auto;
+    border:2px solid wheat;
+    border-radius: 10px;
+    color:wheat;
+    background-color:  transparent;
+    transition: all 0.2s ease;
+ }
+ #result:hover{
+    background-color: rgb(188, 196, 185);
+    color: rgb(0, 0, 0);
+    border:2px solid rgb(202, 140, 25);
+    cursor: pointer;
+ }
+ h1{
+    color:rgb(205, 210, 203);
+ }
+ #fact{
+    color:rgb(231, 231, 231);
+    transition: all 0.2s ease;
+ }
